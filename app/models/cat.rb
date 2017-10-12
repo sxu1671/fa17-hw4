@@ -1,4 +1,4 @@
-class Cat < ActiveRecord::Base
+class Cat < ActiveRecord
 	def meow
 		puts "meow"
 	end
